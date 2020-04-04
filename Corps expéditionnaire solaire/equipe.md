@@ -5,7 +5,7 @@
 
 # Membre
 
-<img src="perso - daelink.png" style="float:left; height:200px; margin-right:50px; margin-bottom:10px;"/>
+<img src="illustrations/perso - daelink.png" style="float:left; height:200px; margin-right:50px; margin-bottom:10px;"/>
 
 ## Daelink
 
@@ -16,7 +16,7 @@
 
 <br style="clear:both"/>
 
-<img src="perso - e-ward.png" style="float:left; height:200px; margin-right:50px; margin-bottom:10px;"/>
+<img src="illustrations/perso - e-ward.png" style="float:left; height:200px; margin-right:50px; margin-bottom:10px;"/>
 
 ## E-Ward
 
@@ -27,7 +27,7 @@
 
 <br style="clear:both"/>
 
-<img src="perso - oliver sand.png" style="float:left; height:200px; margin-right:50px; margin-bottom:10px;"/>
+<img src="illustrations/perso - oliver sand.png" style="float:left; height:200px; margin-right:50px; margin-bottom:10px;"/>
 
 ## Oliver Sand
 
@@ -38,7 +38,7 @@
 
 <br style="clear:both"/>
 
-<img src="perso - shard.png" style="float:left; height:200px; margin-right:50px; margin-bottom:10px;"/>
+<img src="illustrations/perso - shard.png" style="float:left; height:200px; margin-right:50px; margin-bottom:10px;"/>
 
 ## Shard
 

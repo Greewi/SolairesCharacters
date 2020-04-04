@@ -1,5 +1,5 @@
 # Shard
-<img src="perso - shard.png" style="float:right;width:250px"/>
+<img src="illustrations/perso - shard.png" style="float:right;width:250px"/>
 
 * **Rôles** : Négociations, Technologie, Espace
 * **Concept** : Un secouriste technophile

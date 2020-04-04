@@ -1,5 +1,5 @@
 # Oliver Sand
-<img src="perso - oliver sand.png" style="float:right;width:250px"/>
+<img src="illustrations/perso - oliver sand.png" style="float:right;width:250px"/>
 
 * **Rôles** : Enquête, Technologie, Relation
 * **Concept** : Un enquêteur, ancien trafiquant d’arme et fixer

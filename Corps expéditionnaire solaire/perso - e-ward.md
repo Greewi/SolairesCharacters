@@ -1,5 +1,5 @@
 # E-Ward
-<img src="perso - e-ward.png" style="float:right;width:250px"/>
+<img src="illustrations/perso - e-ward.png" style="float:right;width:250px"/>
 
 * **Rôles** : Combat, Infiltration, Relation
 * **Concept** : Une cyber-samouraï solar wardner
