@@ -19,7 +19,7 @@ Votre avatar est une version dessinée de votre enveloppe.
 
 ## Possessions
 
-Vous voyagez avec Fran votre robot de transport qui contient aussi votre propre petit laboratoire de fabrication. Vous avez toujours avec vous votre contrôleur de foglet et vous aimez vous en servir.
+Vous voyagez avec Fran votre robot de transport qui contient aussi votre propre petit laboratoire de fabrication. Vous avez toujours avec vous votre contrôleur de foglet et vous aimez vous en servir. Vous avez aussi aussi vos propre logiciels de sociabilité et logiciel de maintenance.
 
 ## Comportement
 
@@ -47,6 +47,9 @@ Aidant régulièrement d’autres indépendant ou parfois même des instances pl
 * Console de décryptage intégrée (M) : 2
 * Fran (E) : 2
 * Laboratoire de fabrication (E) : 3
+* Contrôleur de foglet (E) : 2
+* Logiciels de sociabilité (L) : 3
+* Logiciel de maintenance (L) : 1
 * Curieuse (P) : 1
 * Inventive (P) : 1
 * Avenante (P) : 1
